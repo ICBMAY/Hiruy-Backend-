@@ -1,0 +1,12 @@
+{
+  "name": "books-assignment",
+  "version": "1.0.0",
+  "description": "Week 8 Assignment: Books",
+  "scripts": {
+    "files": "node files.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
